@@ -45,3 +45,7 @@ variable "role_priority" {
 variable "iam_instance_profile" {
   default = ""
 }
+
+variable "project_version"{
+  
+}
